@@ -1,3 +1,5 @@
+## 访问数：[![](https://visitor-badge.glitch.me/badge?page_id=riofutab)] 
+
 - 👋 Hi, I’m @Rio-Futaba
 - 👀 I’m interested in C/C++,Web Develop,Linux and Golang
 - 🌱 I’m currently learning C++,Golang
