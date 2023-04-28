@@ -1,4 +1,4 @@
-## 访问数：[![](https://visitor-badge.glitch.me/badge?page_id=riofutab)] 
+## 访问数：![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 - 👋 Hi, I’m @carlo
 - 👀 I’m interested in C/C++,Web Develop,Linux and Golang
