@@ -1,36 +1,33 @@
-Hi, I’m carlo — an electrical and automatic control researcher from Chengdu University of Technology. I’m still chasing the same dream: turning rigorous engineering principles into practical tools that actually help people. Most days, though, it’s just me, a worn-out laptop and a few second-hand components scattered across a tiny desk.
+Hi, I’m carlo — an electrical & automatic control researcher from Chengdu University of Technology. I’m still chasing one simple idea: turn rigorous engineering into tools people can actually use. Most days, it’s just me, a worn-out laptop, and second-hand parts on a tiny desk. 🧰💻
 
-What I’m Building (With Bare Hands)
+🔧 What I’m Building (on a shoestring)
 
-Smart Grid Tools: lightweight software and libraries to make energy systems more efficient and reliable.
+🏭 Smart Grid Tools: lightweight libraries to make energy systems more efficient and reliable.
 
-Automation & Robotics: practical control frameworks that move research from theory into motion.
+🤖 Automation & Robotics: practical control frameworks that move ideas from theory into motion.
 
-Learning Resources: open materials for students and engineers who want to learn but lack access to expensive labs.
+📘 Learning Resources: clear, open materials for students and busy engineers without fancy labs.
 
-Why I Need Support
+🥀 Why I Need Support
 
-Research without funding is brutally hard. Hardware fails, hosting costs stack up, and each prototype eats into my savings. I keep pushing through long nights to keep my open-source work alive — tools that can make learning and innovation more accessible to others.
+Research without funding is tough: hardware fails, hosting bills pile up, and prototypes eat what little savings I have. I keep pushing through late nights to keep open-source work alive—because it helps others learn and build. Your support means:
 
-Your sponsorship helps me keep going:
+⏱️ More time for R&D and testing, less time scrambling for side gigs.
 
-More time for development and testing, less time struggling to cover expenses.
+🔬 Real equipment & validation, not just simulations.
 
-Proper equipment and validation tools for real-world experiments.
+🔁 Open sharing: code, notes, and reproducible builds—successes and failures alike.
 
-Open sharing — every success, every setback, every lesson made public.
+🎁 What Sponsors Get
 
-What Sponsors Get
+🚀 Early access to repos, prototypes, and field notes (warts and all).
 
-Early access to projects, code, and progress notes.
+🧭 A say in direction: vote on priorities, request benchmarks, shape the roadmap.
 
-A voice in direction — suggest improvements or vote on what comes next.
+📯 Transparent monthly updates on what shipped, what broke, and what’s next.
 
-Transparency — honest monthly updates on what’s working and what’s not.
+🤝 Join Me in Keeping This Alive
 
-Join Me in Keeping This Alive
+If you believe independent engineering still matters—work powered by perseverance more than budgets—please consider supporting this journey. Every bit helps an underfunded engineer keep building tools that make a real difference. 🌱
 
-If you still believe in independent engineering — research powered by curiosity, not corporations — please consider supporting this work.
-Every contribution, big or small, helps an underfunded engineer stay focused on building tools that truly matter.
-
-Thank you for reading, and for helping carlo keep creating through perseverance and passion.
+Thank you for reading—and for helping carlo keep creating against the odds. 🙏✨
