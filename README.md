@@ -1,4 +1,4 @@
-Hi, I’m carlo — an electrical & automatic control researcher from Chengdu University of Technology. I’m still chasing one simple idea: turn rigorous engineering into tools people can actually use. Most days, it’s just me, a worn-out laptop, and second-hand parts on a tiny desk. 🧰💻
+Hi, I’m Guangyu Wang. I’m still chasing one simple idea: turn rigorous engineering into tools people can actually use. Most days, it’s just me, a worn-out laptop, and second-hand parts on a tiny desk. 🧰💻
 
 🔧 What I’m Building (on a shoestring)
 
