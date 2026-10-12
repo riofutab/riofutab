@@ -27,4 +27,4 @@ These days, I mostly use Claude Code to turn repetitive ops work into tools and 
 
 ## Contact
 
-📧 [your email]
+📧 guangyuwang97@gmail.com
