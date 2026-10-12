@@ -1,33 +1,30 @@
-Hi, I’m Guangyu Wang. I’m still chasing one simple idea: turn rigorous engineering into tools people can actually use. Most days, it’s just me, a worn-out laptop, and second-hand parts on a tiny desk. 🧰💻
+# Hi, I'm Guangyu Wang 👋
 
-🔧 What I’m Building (on a shoestring)
+**DevOps Engineer · AI-assisted Ops Tooling**
 
-🏭 Smart Grid Tools: lightweight libraries to make energy systems more efficient and reliable.
+I come from an ops background and have long owned my company's full engineering infrastructure — from data center and network to virtualization, CI/CD and monitoring.
+These days, I mostly use Claude Code to turn repetitive ops work into tools and platforms.
 
-🤖 Automation & Robotics: practical control frameworks that move ideas from theory into motion.
+## What I Do
 
-📘 Learning Resources: clear, open materials for students and busy engineers without fancy labs.
+- **AI-driven ops development** — built an internal ops platform with Claude Code; ship automation tools daily through vibe coding
+- **CI/CD** — maintain Jenkins and GitLab CI long-term; pipeline splitting, image layer and cache optimization, code scanning
+- **GitLab administration** — performance tuning and day-to-day operations
+- **Monitoring & alerting** — Prometheus, Grafana, Alertmanager
+- **Infrastructure as Code** — Ansible and Terraform managing multiple Proxmox VE hosts (x86 + ARM)
 
-🥀 Why I Need Support
+## Tech Stack
 
-Research without funding is tough: hardware fails, hosting bills pile up, and prototypes eat what little savings I have. I keep pushing through late nights to keep open-source work alive—because it helps others learn and build. Your support means:
+`Go` `Docker` `Podman` `k3s` `Jenkins` `GitLab CI` `Ansible` `Terraform`
+`Prometheus` `Grafana` `Proxmox VE` `Linux` `Claude Code`
 
-⏱️ More time for R&D and testing, less time scrambling for side gigs.
+## Featured Projects
 
-🔬 Real equipment & validation, not just simulations.
+| Project | Description |
+| --- | --- |
+| [nut-server](https://github.com/riofutab/nut-server) | Lightweight UPS shutdown orchestrator for homelabs and small data centers (Go, Prometheus, SNMP) |
+| [GPUConductor](https://github.com/riofutab/GPUConductor) | GPU scheduling platform with LDAP/JWT auth and RBAC (Go, Vue 3, PostgreSQL, Docker Compose) |
 
-🔁 Open sharing: code, notes, and reproducible builds—successes and failures alike.
+## Contact
 
-🎁 What Sponsors Get
-
-🚀 Early access to repos, prototypes, and field notes (warts and all).
-
-🧭 A say in direction: vote on priorities, request benchmarks, shape the roadmap.
-
-📯 Transparent monthly updates on what shipped, what broke, and what’s next.
-
-🤝 Join Me in Keeping This Alive
-
-If you believe independent engineering still matters—work powered by perseverance more than budgets—please consider supporting this journey. Every bit helps an underfunded engineer keep building tools that make a real difference. 🌱
-
-Thank you for reading—and for helping carlo keep creating against the odds. 🙏✨
+📧 [your email]
